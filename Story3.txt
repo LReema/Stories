@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Herdfgbwhjesdbf
 
@@ -11,7 +11,7 @@ Jshdnbfnjksd
 jhdfbhjsd
 
 znfbskjdfnksjdnfkjds
-=======
+
 znfbskjdfnksjdnfkjds
 
 Sdfnsdj
@@ -20,5 +20,6 @@ Sdfnsdj
 Sdfsdfc
 
 
+
 sdfsdf
->>>>>>> alien-plot
+

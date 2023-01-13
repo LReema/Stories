@@ -1,15 +1,19 @@
  This is the first story. Hurray!!
 
-<<<<<<< HEAD
+
+
 Jdsfbdhs dfbdsjznxfcsdz
 
 
 jdhnkjasnd
-=======
+
 
 Dfds
 
 Dsfdsf
 
+
 sdf
->>>>>>> alien-plot
+
+sdf
+
